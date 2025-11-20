@@ -1,0 +1,7 @@
+{
+  "name": "BCC Aesthetic Prescriptions | 联合丽格（西南）美丽处方",
+  "description": "A beauty doctor application that generates personalized skincare prescription cards with a typewriter effect using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
